@@ -4,4 +4,4 @@ Project 3 was the first project of the CIT 281 course that introduced Node.js we
 
 We were then tasked with creating a web server and HTML page with 3 different routes using fastify and the GET verb.
 
-[HTML Page Here](https://github.com/swarren2/cit281-p3/blob/9081105918a1183628ca841b48627e1575f1e33e/index.html)
+[HTML Page Here](index.html)
